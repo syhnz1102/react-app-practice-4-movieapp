@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/react-app-practice-4-movieapp.git/static/js/main.2feadcd7.js",
+    "main.js": "/react-app-practice-4-movieapp.git/static/js/main.d11322f6.js",
     "static/media/spinner-1.gif": "/react-app-practice-4-movieapp.git/static/media/spinner-1.4c0dabf64bfe071965aa.gif",
     "index.html": "/react-app-practice-4-movieapp.git/index.html",
-    "main.2feadcd7.js.map": "/react-app-practice-4-movieapp.git/static/js/main.2feadcd7.js.map"
+    "main.d11322f6.js.map": "/react-app-practice-4-movieapp.git/static/js/main.d11322f6.js.map"
   },
   "entrypoints": [
-    "static/js/main.2feadcd7.js"
+    "static/js/main.d11322f6.js"
   ]
 }
